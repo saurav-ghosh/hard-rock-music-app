@@ -1,5 +1,5 @@
 # hard-rock-solution
-##### hard rock is a music app. Here any user can search a song and can listen the music and also can see the lyrics of the song.
+#### hard rock is a music app. Here any user can search a song and can listen the music and also can see the lyrics of the song.
 ### Search Song
 api link: https://api.lyrics.ovh/suggest/:searchText
 
